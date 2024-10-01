@@ -1,0 +1,11 @@
+{
+  "name": "nfc-website",
+  "version": "1.0.0",
+  "description": "we are building an website for the kids which can be accessed using an nfc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nxtgen",
+  "license": "ISC"
+}
